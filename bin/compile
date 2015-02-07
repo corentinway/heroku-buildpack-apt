@@ -55,7 +55,7 @@ done
 
 
 #APT=.apt
-APT=.
+APT=..
 
 mkdir -p $BUILD_DIR/$APT
 
