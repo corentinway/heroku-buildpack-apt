@@ -54,8 +54,8 @@ for PACKAGE in $(cat $BUILD_DIR/Aptfile); do
 done
 
 
-#APT=.apt
-APT=..
+APT=.apt
+#APT=..
 
 mkdir -p $BUILD_DIR/$APT
 
